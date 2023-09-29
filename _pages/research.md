@@ -15,7 +15,9 @@ dynamic spectrum sharing, Internet of Things (IoT), cyber-physical systems, edge
 
 ## Awards
 
+* USENIX Security Student Travel Grant, 2023
+* University Grad Fellowship Summer, ECEE, ASU, 2023
 * Electrical Engineering Department Scholarship, ASU, 2022 
-* Engineering Graduate Fellowship, ASU, 2018
+* Engineering Graduate Fellowship, ASU, 2018, 2023
 * IEEE CNS Student Travel Grant, IEEE, 2018
 

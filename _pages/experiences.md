@@ -8,11 +8,14 @@ author_profile: true
 
 ## Journal Reviewer:
 
+* IEEE Transactions on Mobile Computing (TMC)
 * IEEE Transactions on Networking (ToN)
 * Smart Health
 
 ## Conference Reviewer:
 
+* IEEE INFOCOM 2023
+* USENIX Security 2023
 * ACM MobiHoc 2018, 2020, 2021, 2022
 * ACM WiSec 2020
 * IEEE/ACM IWQoS 2021
