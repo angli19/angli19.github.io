@@ -82,11 +82,11 @@ analytics:
 author:
   name             : "Ang Li"
   avatar           : "profile.png"
-  bio              : "Ph.D. student in Computer Engineering at Arizona State University"
-  location         : "Tempe, AZ 85287"
+  bio              : "Assistant Professor in Computer and Information Science Department at The University of Michigan-Dearborn"
+  location         : "Dearborn, MI 48128"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : #"http://yourfullgooglescholarurl.com"
+  googlescholar    : "https://scholar.google.com/citations?user=6fm0u9cAAAAJ&hl=en&authuser=1"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
