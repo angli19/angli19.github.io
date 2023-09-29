@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 I am currently an Assistant Professor in the Computer and Information Science Department at 
-The University of Michigan-Dearborn. Prior to that, I received a Ph.D. in Computer Engineering from Arizona State University 
+the University of Michigan-Dearborn. Prior to that, I received a Ph.D. in Computer Engineering from Arizona State University 
 in 2023, a M.S. from Beihang University in 2014, a B.Eng. from Guangxi University in 2010. My research interests are cybersecurity 
 and privacy in networked systems, AI/ML-powered wireless and mobile systems, RFID, 5G/6G networks, 
 wireless/mobile sensing, dynamic spectrum sharing, Internet of Things (IoT), cyber-physical systems, 
