@@ -9,7 +9,7 @@ redirect_from:
 
 ## Current Students
 
-* Ziba Parsons (Ph.D. Student) Fall 2022 - 
+* [Ziba Parsons](https://sites.google.com/view/ziba-parsons/)  (Ph.D. Student) Fall 2020 - 
 
 
 
